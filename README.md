@@ -1,2 +1,5 @@
 # offsight-demo-regulation-source
-Controlled demo regulatory source for the OffSight bachelor project (GitHub Pages).
+
+This repository hosts a controlled demo regulatory page used by the OffSight bachelor project.
+
+The content is intentionally modified during demonstrations to simulate regulatory updates.
